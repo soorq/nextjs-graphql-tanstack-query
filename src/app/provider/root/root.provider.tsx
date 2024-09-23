@@ -1,7 +1,7 @@
 "use client";
 
-import { QueryClientProvider } from "../react-query";
 import { ApolloProvider } from "../apollo";
+import { QueryClientProvider } from "../react-query";
 
 export function RootProvider({ children }: React.PropsWithChildren) {
     return (
