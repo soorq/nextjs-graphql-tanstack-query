@@ -1,13 +1,6 @@
-<div align="center">
-    <img src="" width="200" height="200" alt="Логотип компании"/>
-    <img src="" width="200" height="200" alt="Логотип компании"/>
-    <img src="https://sanater.ru//wa-data/public/site/themes/ahead/assets/img/logo.png?v1649361801?v1.6.6.12" width="200" height="200" alt="Логотип компании"/>
-    <h3 align="center">Archi - vit</h3>
-</div>
-
 | Graphql logo                                                                                         | NextJs logo                                                                                                  | React-Query logo                                                                                       |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| ![Graphql](https://e7.pngegg.com/pngimages/93/478/png-clipart-graph-ql-logo-icon-tech-companies.png) | ![NextJs](https://avatars.mds.yandex.net/i?id=a574fbe9c3f30a96b0d7885b67f9fc8e_l-8710005-images-thumbs&n=13) | ![React-Query](https://www.strobecorp.com/wp-content/uploads/2023/11/What-is-React-Query-1024x546.jpg) |
+| ![Graphql](https://i.pinimg.com/736x/94/d8/d5/94d8d551d3f4777accf765f9725ddc06.jpg) | ![NextJs](https://avatars.mds.yandex.net/i?id=a574fbe9c3f30a96b0d7885b67f9fc8e_l-8710005-images-thumbs&n=13) | ![React-Query](https://www.strobecorp.com/wp-content/uploads/2023/11/What-is-React-Query-1024x546.jpg) |
 
 ![Static Badge](https://img.shields.io/badge/soorq-nextjs-graphql)
 ![GitHub top language](https://img.shields.io/github/languages/top/soorq/nextjs-graphql-tanstack-query)
